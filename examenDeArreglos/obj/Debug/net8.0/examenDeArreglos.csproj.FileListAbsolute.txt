@@ -1,0 +1,14 @@
+C:\Users\52669\Desktop\ESCRITORIO\universidad\semestre-2\fundamentos de programacion\examenDeArreglos\examenDeArreglos\bin\Debug\net8.0\examenDeArreglos.exe
+C:\Users\52669\Desktop\ESCRITORIO\universidad\semestre-2\fundamentos de programacion\examenDeArreglos\examenDeArreglos\bin\Debug\net8.0\examenDeArreglos.deps.json
+C:\Users\52669\Desktop\ESCRITORIO\universidad\semestre-2\fundamentos de programacion\examenDeArreglos\examenDeArreglos\bin\Debug\net8.0\examenDeArreglos.runtimeconfig.json
+C:\Users\52669\Desktop\ESCRITORIO\universidad\semestre-2\fundamentos de programacion\examenDeArreglos\examenDeArreglos\bin\Debug\net8.0\examenDeArreglos.dll
+C:\Users\52669\Desktop\ESCRITORIO\universidad\semestre-2\fundamentos de programacion\examenDeArreglos\examenDeArreglos\bin\Debug\net8.0\examenDeArreglos.pdb
+C:\Users\52669\Desktop\ESCRITORIO\universidad\semestre-2\fundamentos de programacion\examenDeArreglos\examenDeArreglos\obj\Debug\net8.0\examenDeArreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52669\Desktop\ESCRITORIO\universidad\semestre-2\fundamentos de programacion\examenDeArreglos\examenDeArreglos\obj\Debug\net8.0\examenDeArreglos.AssemblyInfoInputs.cache
+C:\Users\52669\Desktop\ESCRITORIO\universidad\semestre-2\fundamentos de programacion\examenDeArreglos\examenDeArreglos\obj\Debug\net8.0\examenDeArreglos.AssemblyInfo.cs
+C:\Users\52669\Desktop\ESCRITORIO\universidad\semestre-2\fundamentos de programacion\examenDeArreglos\examenDeArreglos\obj\Debug\net8.0\examenDeArreglos.csproj.CoreCompileInputs.cache
+C:\Users\52669\Desktop\ESCRITORIO\universidad\semestre-2\fundamentos de programacion\examenDeArreglos\examenDeArreglos\obj\Debug\net8.0\examenDeArreglos.dll
+C:\Users\52669\Desktop\ESCRITORIO\universidad\semestre-2\fundamentos de programacion\examenDeArreglos\examenDeArreglos\obj\Debug\net8.0\refint\examenDeArreglos.dll
+C:\Users\52669\Desktop\ESCRITORIO\universidad\semestre-2\fundamentos de programacion\examenDeArreglos\examenDeArreglos\obj\Debug\net8.0\examenDeArreglos.pdb
+C:\Users\52669\Desktop\ESCRITORIO\universidad\semestre-2\fundamentos de programacion\examenDeArreglos\examenDeArreglos\obj\Debug\net8.0\examenDeArreglos.genruntimeconfig.cache
+C:\Users\52669\Desktop\ESCRITORIO\universidad\semestre-2\fundamentos de programacion\examenDeArreglos\examenDeArreglos\obj\Debug\net8.0\ref\examenDeArreglos.dll
